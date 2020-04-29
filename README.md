@@ -1,4 +1,4 @@
-# Song-lyrice-generation-project
+# Song-lyric-generation-project
 This project is an exploration of the use of N-grams and other NLP techniques to generate songs in the style of Kanye West.
 
 After learning about the model of N-Grams in one of my Statistics classes I decided to apply my knowledge learnt and create a project
